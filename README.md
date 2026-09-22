@@ -1,1 +1,1 @@
-starting point empty
+Nå tester jeg fetch
